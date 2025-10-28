@@ -1,0 +1,14 @@
+{
+  "id": "wod",
+  "name": "World of Darkness",
+  "description": "Chinese translations for World of Darkness terms",
+  "author": "TWSFFTS_07007",
+  "glossary": "hd2",
+  "langs": ["zh-CN"],
+  "i18ns": {
+    "zh-CN": {
+      "name": "黑暗世界",
+      "description": "包含黑暗世界大多数专有名词的翻译。"
+    }
+  }
+}
